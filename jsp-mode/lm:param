@@ -1,0 +1,4 @@
+#contributor : Eric Entzel <eric@ubermac.net>
+#name : <lm:param name="..." value="..." />
+# --
+<lm:param name="$1" value="$2" />
